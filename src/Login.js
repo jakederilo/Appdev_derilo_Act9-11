@@ -70,7 +70,7 @@ const container = { position: 'relative', // Set the container to relative posit
 display: 'flex',
 justifyContent: 'center',
 alignItems: 'center',
-height: '200vh',
+height: '150vh',
 backgroundColor: '#fbee00',}
 
 const formContainer = {position: 'relative', // Set the form container to relative position
